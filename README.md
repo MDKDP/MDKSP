@@ -1,2 +1,2 @@
 # MDKSP
-Multimodal Dynamic Knowledge-driven Dropout Prediction
+Multimodal Dynamic Knowledge-driven Consultation Success Prediction
